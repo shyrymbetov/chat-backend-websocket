@@ -1,0 +1,4 @@
+# Project exclude paths
+/entities/Message.entity.js
+/node_modules/
+/app.js
